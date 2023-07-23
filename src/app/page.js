@@ -7,7 +7,7 @@ export default function Home() {
         </a>
       </div>
       <div className="text-center">
-        <h1 className="text-5xl">Next.js Starter</h1>
+        <h1 className="text-5xl">Next.js + Tailwind CSS Starter</h1>
       </div>
     </main>
   );
